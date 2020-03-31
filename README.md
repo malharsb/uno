@@ -5,11 +5,10 @@ Spring 2020 - 24783 - Alpha Version submission
 Team MooPointers
 
 
-Instructions to compile the alpha version
-- Using the pre-build code
-1 - checkout alpha_version from the server
-2 - cd ~/alpha_version/build/main/Debug
-3 - Execute game.exe
+Instructions to compile the alpha version using the pre-build code
+- checkout alpha_version from the server
+- cd ~/alpha_version/build/main/Debug
+- Execute game.exe
 
 About the game
 - The game should open in the terminal (alpha version is a terminal-based game)
