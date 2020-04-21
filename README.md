@@ -1,7 +1,7 @@
 # uno
 This is a C++ implementation of the popular card game Uno.
 
-Spring 2020 - 24783 - Alpha Version submission
+Spring 2020 - 24783 - Beta Version Submission
 Team MooPointers
 
 
