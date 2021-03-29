@@ -14,3 +14,6 @@ The game should open in a window (Final version has a Graphical User Interface).
 You will be playing against a number of bots
 These bots are a little more intelligent than you think, so beware :)
 Play your first card and enjoy the game!
+
+![uno](https://user-images.githubusercontent.com/52419960/112852338-d392fc00-9079-11eb-9575-9541b16fd14f.JPG)
+
